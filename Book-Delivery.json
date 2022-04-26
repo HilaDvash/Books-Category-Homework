@@ -1,0 +1,7 @@
+{
+    "Delivery Books":{
+    "City": ["Tel Aviv","Ashdod","Haifa","Rishon Lezion","Holon"],
+    "Delivery-time":"2-3 ימי עסקים",
+    "freight cost": ["מעל 200 שקל בחינם","מעל 100 שקל 15 שקלים","עד 100 שקל 20 שקלים"]
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "books category":{
+   "Psychology Books":[
+  {
+        "name": "ארבע הסכמות",
+        "author":"דן מיגל לואיס",
+        "prise": 66,
+        "id": 1111,
+        "img": "Book1.jpg"
+    },
+    {
+        "name": "המנכל והדלת המסתובבת",
+        "author":"פיטר מורגן קאש",
+        "prise": 67,
+        "id": 1112,
+        "img": "Book2.jpg"
+    },
+    {
+        "name": "כיצד לרכוש ידידים והשפעה",
+        "author":"דייל קרנגי",
+        "prise": "52",
+        "id": 1113,
+        "img": "Book3.jpg"
+    },
+    {
+        "name": "אומנות האהבה",
+        "author":"אריך פרום",
+        "prise": "44",
+        "id": 1114,
+        "img": "Book4.jpg"
+    }
+],
+"Children's Books":[
+    {
+        "name": "העץ הנדיב",
+        "author":"של סילברסטין",
+        "prise": 51,
+        "id": 2222,
+        "img": "Book5.jpg"
+    },
+    {
+      "name": "מעשה בחמישה בלונים",
+      "author":"מרים רות",
+      "prise": 61,
+      "id": 2221,
+      "img": "Book6.jpg"
+  },
+    {
+        "name": "טרופוטי",
+        "author":"דונלדסון ג’וליה ושפלר אקסל",
+        "prise": "37",
+        "id": 2223,
+        "img": "Book7.jpg"
+    },
+    {
+        "name": "הבית של יעל",
+        "author":"מרים רות",
+        "prise": "39",
+        "id": 2224,
+        "img": "Book8.jpg"
+    }
+]
+}
+}
+
